@@ -1,0 +1,9 @@
+<mvc:View controllerName="CameraFunctionality.controller.View1" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+	<Shell id="shell">
+		<App id="app">
+			<pages>
+				<mvc:XMLView viewName="CameraFunctionality.view.Snapshot"/>
+			</pages>
+		</App>
+	</Shell>
+</mvc:View>
